@@ -1,4 +1,4 @@
-import { Box, Heading, transition } from "@chakra-ui/react";
+import { Box, Heading} from "@chakra-ui/react";
 import React, { useContext } from "react";
 import { FaFacebook, FaInstagram, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
